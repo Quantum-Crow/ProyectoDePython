@@ -4,6 +4,7 @@
 - Esteban Alamino
 - Agustin Mocayar
 - Marcos Chocobar
+- Facundo Quiroga
 
 ## Instrucciones
 
